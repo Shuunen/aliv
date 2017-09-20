@@ -5,3 +5,5 @@ coverage
 *.log
 
 .vscode/*
+lib/crt/server.crt
+lib/crt/server.key
